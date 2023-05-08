@@ -1,0 +1,25 @@
+com.example.walk_mate.app-jetified-firebase-messaging-23.1.2-0 /Users/mdjubayerhossain/.gradle/caches/transforms-3/0096cd9996f4d8d4c58a27f987b42c49/transformed/jetified-firebase-messaging-23.1.2/res
+com.example.walk_mate.app-jetified-firebase-common-20.3.2-1 /Users/mdjubayerhossain/.gradle/caches/transforms-3/026de80ea9d0b63bfc94ec9a10c1d73c/transformed/jetified-firebase-common-20.3.2/res
+com.example.walk_mate.app-localbroadcastmanager-1.1.0-2 /Users/mdjubayerhossain/.gradle/caches/transforms-3/0df1c7ae9c47d1d2b929d8bda07e5f40/transformed/localbroadcastmanager-1.1.0/res
+com.example.walk_mate.app-core-1.6.0-3 /Users/mdjubayerhossain/.gradle/caches/transforms-3/1141b72fb8be4e566e7814849b1aa3a2/transformed/core-1.6.0/res
+com.example.walk_mate.app-jetified-window-1.0.0-beta04-4 /Users/mdjubayerhossain/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+com.example.walk_mate.app-media-1.1.0-5 /Users/mdjubayerhossain/.gradle/caches/transforms-3/61db730000923996bc35a988c12cac88/transformed/media-1.1.0/res
+com.example.walk_mate.app-jetified-play-services-base-18.0.1-6 /Users/mdjubayerhossain/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/res
+com.example.walk_mate.app-jetified-annotation-experimental-1.1.0-7 /Users/mdjubayerhossain/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.walk_mate.app-jetified-play-services-basement-18.1.0-8 /Users/mdjubayerhossain/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/res
+com.example.walk_mate.app-jetified-window-java-1.0.0-beta04-9 /Users/mdjubayerhossain/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.walk_mate.app-debug-10 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/android/app/src/debug/res
+com.example.walk_mate.app-main-11 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/android/app/src/main/res
+com.example.walk_mate.app-google-services-12 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/generated/res/google-services/debug
+com.example.walk_mate.app-pngs-13 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/generated/res/pngs/debug
+com.example.walk_mate.app-resValues-14 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/generated/res/resValues/debug
+com.example.walk_mate.app-rs-15 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/generated/res/rs/debug
+com.example.walk_mate.app-mergeDebugResources-16 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.walk_mate.app-mergeDebugResources-17 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.walk_mate.app-merged_res-18 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/app/intermediates/merged_res/debug
+com.example.walk_mate.app-packaged_res-19 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.walk_mate.app-packaged_res-20 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/firebase_core/intermediates/packaged_res/debug
+com.example.walk_mate.app-packaged_res-21 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/firebase_messaging/intermediates/packaged_res/debug
+com.example.walk_mate.app-packaged_res-22 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/flutter_local_notifications/intermediates/packaged_res/debug
+com.example.walk_mate.app-packaged_res-23 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/path_provider_android/intermediates/packaged_res/debug
+com.example.walk_mate.app-packaged_res-24 /Users/mdjubayerhossain/Downloads/workplace /ios_android_app/walk_mate/build/shared_preferences_android/intermediates/packaged_res/debug
